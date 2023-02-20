@@ -1,3 +1,2 @@
-# CS441-19---Tuyts-K-
-CS441/19 - SPRING 2023 - Tuyts K' - 1902002
+#cs441-19-sp2023-data-visualization
 
